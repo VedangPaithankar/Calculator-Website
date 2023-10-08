@@ -1,9 +1,9 @@
 # Arithmetic Calculator Website
 
-<a align="center"/>
-   <img>
-</a>
-
+<p align="center" width="auto" height="auto">
+  <a href="image_2023-10-09_000558031.png">
+  </a>
+</p>
 ## Introduction
 
 This project is a simple Arithmetic Calculator website built using HTML and CSS. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
