@@ -1,7 +1,7 @@
 # Arithmetic Calculator Website
 
 <p align="center" width="auto" height="auto">
-  <a href="image_2023-10-09_000558031.png">
+  <a href="./image_2023-10-09_000558031.png">
   </a>
 </p>
 
