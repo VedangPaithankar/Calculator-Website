@@ -1,7 +1,7 @@
 # Arithmetic Calculator Website
 
 ![Webpage Screenshot](image_2023-10-08_235748486.png)
-![Webpage Screenshot](image2.png)
+![Webpage Screenshot](image_2023-10-08_235847005.png)
 
 ## Introduction
 
